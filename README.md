@@ -50,7 +50,7 @@ This project was conducted by team **Toga Party**, in compliance of the requirem
 
 August Bryan Florese – [@Aroueterra](https://www.facebook.com/Aroueterra) – aroueterra@gmail.com
 
-Jay-Vince Eleazar
+Jay-Vince Eleazar - j.vinceeleazar@gmail.com
 
 Kenneth Dan Villanueva
 
